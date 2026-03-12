@@ -2,7 +2,6 @@
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Data Engineering](https://img.shields.io/badge/Data_Engineering-FF6F00?style=for-the-badge)
 
 > An end-to-end, fully automated Medallion Architecture data pipeline built natively in Snowflake. This engine autonomously ingests raw datasets, validates records using Change Data Capture (CDC), evaluates eligibility against complex business rules using polyglot UDFs, and generates structured JSON decision payloads—all while securing PII with Zero-Trust access controls.
@@ -134,6 +133,7 @@ _Sit back and watch the data flow from Raw to Curated JSON autonomously!_
 - [Devanshu Sawarkar](https://github.com/DevanshuSawarkar)
 - [Atharva Kale](https://github.com/AtharvaKale1)
 - [Shreyas Daduria](https://github.com/shreyashD0810)
+
 
 
 
