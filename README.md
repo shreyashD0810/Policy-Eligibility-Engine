@@ -42,7 +42,7 @@ This project utilizes the **Medallion Architecture** pattern to progressively re
 * **Semi-Structured Handling:** Native ingestion of JSON KYC and Watchlist data into `VARIANT` columns, later flattened using Snowflake's dot-notation (`kyc_data:status::VARCHAR`).
 * **Multi-Language UDFs:** Complex "Refer/Reject/Approve" logic is handled by JavaScript UDFs natively executing inside Snowflake, allowing for complex `IF/ELSE` routing that SQL handles poorly.
 
-<img width="1600" height="930" alt="image" src="https://github.com/user-attachments/assets/4580fc6c-80eb-4d3a-b578-04cbe24b000b" />
+<img width="1600" height="930" alt="image" src="Proposed Architecture.png" />
 
 
 ---
